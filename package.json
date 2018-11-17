@@ -1,0 +1,20 @@
+{
+  "name": "jsbasics",
+  "version": "1.0.0",
+  "description": "Practice basic node and js features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharyatilak/jsPractice.git"
+  },
+  "author": "Tilak Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acharyatilak/jsPractice/issues"
+  },
+  "homepage": "https://github.com/acharyatilak/jsPractice#readme"
+}
